@@ -1,2 +1,0 @@
-# eka-app
-Next JS
